@@ -9,4 +9,4 @@ Yo changed on the branch.
 
 Changed here in master!
 
-Wow! New text.
+Wow! New text. I've typed more stuff here since my last commit. Wow!
